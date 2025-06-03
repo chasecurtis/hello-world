@@ -1,0 +1,2 @@
+def poem()->str:
+    return "Roses are red, violets are blue, I can't write poems, so this code will have to do."
